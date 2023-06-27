@@ -1,5 +1,5 @@
 # Angry Cat
-A Whac-A-Mole clone made with Canvas API.
+An updated version of the classic Whac-A-Mole game built with Canvas API. How angry IS this cat? Play the game and find out!
 
 A working demo can be found at https://angrycat.glitch.me/
 
@@ -10,3 +10,4 @@ A working demo can be found at https://angrycat.glitch.me/
 - HTML
 - CSS
 - JavaScript
+- Canvas API
